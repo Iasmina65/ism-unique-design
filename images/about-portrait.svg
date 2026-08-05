@@ -1,0 +1,21 @@
+<svg viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ilustrație editorială de interior, colț de living">
+  <rect width="800" height="1000" fill="#14120F"/>
+  <!-- armchair + side table composition, gold linework on black -->
+  <g stroke="#D9C08A" stroke-width="2" fill="none">
+    <path d="M 180 760 L 180 560 Q 180 500 250 500 L 430 500 Q 500 500 500 560 L 500 760" />
+    <path d="M 180 620 L 110 620 L 110 760" />
+    <path d="M 500 620 L 570 620 L 570 760" />
+    <line x1="90" y1="760" x2="590" y2="760"/>
+    <path d="M 180 560 Q 340 520 500 560"/>
+  </g>
+  <g stroke="#B08D4F" stroke-width="1.5" fill="none" opacity="0.8">
+    <circle cx="630" cy="700" r="70"/>
+    <line x1="630" y1="770" x2="630" y2="850"/>
+    <line x1="580" y1="850" x2="680" y2="850"/>
+  </g>
+  <g stroke="#D9C08A" stroke-width="1" fill="none" opacity="0.5">
+    <line x1="60" y1="240" x2="740" y2="240"/>
+    <line x1="60" y1="260" x2="740" y2="260"/>
+  </g>
+  <ellipse cx="700" cy="200" rx="6" ry="6" fill="#B08D4F"/>
+</svg>

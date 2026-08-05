@@ -1,0 +1,15 @@
+<svg viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Schiță linie canapea, fundal ivoire">
+  <rect width="800" height="1000" fill="#EDE6D8"/>
+  <line x1="0" y1="800" x2="800" y2="800" stroke="#14120F" stroke-width="1" opacity="0.12"/>
+  <g stroke="#14120F" stroke-width="2" fill="none">
+    <path d="M 150 800 L 150 620 Q 150 580 190 580 L 610 580 Q 650 580 650 620 L 650 800"/>
+    <path d="M 150 660 L 100 660 L 100 800"/>
+    <path d="M 650 660 L 700 660 L 700 800"/>
+    <line x1="90" y1="800" x2="710" y2="800"/>
+  </g>
+  <g stroke="#B08D4F" stroke-width="1.5" fill="none">
+    <rect x="220" y="630" width="90" height="70" rx="6"/>
+    <rect x="340" y="630" width="90" height="70" rx="6"/>
+    <rect x="460" y="630" width="90" height="70" rx="6"/>
+  </g>
+</svg>

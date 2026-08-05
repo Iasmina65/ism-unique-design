@@ -1,0 +1,12 @@
+<svg viewBox="0 0 800 1000" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Schiță linie plantă în ghiveci, fundal negru">
+  <rect width="800" height="1000" fill="#14120F"/>
+  <g stroke="#D9C08A" stroke-width="2" fill="none">
+    <path d="M 400 700 Q 380 560 320 480"/>
+    <path d="M 400 700 Q 420 540 480 440"/>
+    <path d="M 400 700 Q 400 520 400 380"/>
+    <path d="M 400 700 Q 360 600 300 560"/>
+    <path d="M 400 700 Q 440 600 500 560"/>
+  </g>
+  <path d="M 330 700 L 470 700 L 450 820 L 350 820 Z" fill="none" stroke="#B08D4F" stroke-width="2"/>
+  <line x1="120" y1="820" x2="680" y2="820" stroke="#D9C08A" stroke-width="1" opacity="0.15"/>
+</svg>
